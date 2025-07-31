@@ -1,5 +1,5 @@
-//Write different programs to implement passing by reference and passing by value in C++.
-//1. Passing by reference.
+//8. Write different programs to implement passing by reference and passing by value in C++.
+//a. Passing by reference.
 
 #include <iostream>
 using namespace std;

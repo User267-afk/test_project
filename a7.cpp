@@ -1,4 +1,4 @@
-/*Define a friend function addtime() with objects as arguments and return the sum of two objects. Show
+/*7. Define a friend function addtime() with objects as arguments and return the sum of two objects. Show
 the values of each object and their sum as output.*/
 
 #include <iostream>
