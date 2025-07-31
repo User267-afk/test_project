@@ -1,4 +1,4 @@
-/*Write a C++ program to design a base class Person(name, address, phone). Derive a class Employee(eno, ename) from Person. Derive a class
+/*3. Write a C++ program to design a base class Person(name, address, phone). Derive a class Employee(eno, ename) from Person. Derive a class
 Manager(designation, dept_name, basic_salary) from Employee. Write a program to:
 
 1. Accept all details of ‘n’ managers
